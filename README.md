@@ -1,2 +1,2 @@
 # goAlgos
-Algorithms in Go
+Learning Golang while getting better at algorithms
