@@ -1,0 +1,2 @@
+# goAlgos
+Algorithms in Go
